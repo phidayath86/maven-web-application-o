@@ -30,7 +30,7 @@
 
 	<dependencies>
 
-		<!-- test dependencies -->
+		<!-- cjkks< test dependencies -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
